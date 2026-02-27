@@ -1,6 +1,5 @@
-fastapi
-uvicorn
-opencv-python-headless
+flask
+flask-cors
 ultralytics
+opencv-python-headless
 numpy
-python-multipart
